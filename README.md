@@ -1,15 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> b865c7ecabfece6082455b9fa3a2acd50335fe93
 # chatWithNode
-使用node.js和cocoscreator创建的简单聊天程序
+使用node.js和cocoscreator 1.9.1创建的简单聊天程序, 可以直接运行，进入chatServer目录，执行node ./bin/www即可启动服务器.
 
 ![](http://cdn.xujiawei.vip/chat.gif)
-<<<<<<< HEAD
-=======
-# hello-world
-Hello world new project template.
->>>>>>> first commit
-=======
->>>>>>> b865c7ecabfece6082455b9fa3a2acd50335fe93
